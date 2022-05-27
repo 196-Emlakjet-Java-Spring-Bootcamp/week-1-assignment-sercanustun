@@ -3,13 +3,14 @@
 Bu ödevde JAVA8, JAVA 11 ve JAVA 17 ile gelen önemli özelliklerin açıklamaları ve örnekleri yer almaktadır.
 
 ## İçindekiler
-1. [JAVA 8 İLE GELEN ÖZELLİKLER](#JAVA 8 İLE GELEN ÖZELLER)
-2. [JAVA 11 İLE GELEN ÖZELLER](#JAVA 11 İLE GELEN ÖZELLER)
-3. [JAVA 17 İLE GELEN ÖZELLİKLER](#JAVA 17 İLE GELEN ÖZELLİKLER)
+1. [JAVA 8 İLE GELEN ÖZELLER](#java-8-ile-gelen-ozellikler)
+2. [JAVA 11 İLE GELEN ÖZELLER](#java-11-ile-gelen-ozellikler)
+3. [JAVA 17 İLE GELEN ÖZELLİKLER](#java-17-ile-gelen-ozellikler)
+4. [KAYNAKLAR](#kaynaklar)
 
 
 
-## JAVA 8 İLE GELEN ÖZELLER 
+## Java 8 Ile Gelen Ozellikler 
 
 ### - Default Metodlar
 
@@ -240,7 +241,7 @@ public class Okul {
 
 
 
-## JAVA 11 İLE GELEN ÖZELLER
+## Java 11 Ile Gelen Ozellikler 
 
 #### - Launch Single-File Source-Code Programs – JEP 330
 
@@ -525,7 +526,7 @@ Docker, Kubernetes gibi bulut tabanlı ortamlarda işlemleri hızlandırmak içi
 
 
 
-## JAVA 17 İLE GELEN ÖZELLİKLER
+## Java 17 Ile Gelen Ozellikler 
 
 #### - Daima Katı Kayan Nokta Semantiğini Geri Yükle - JEP 306 
 
